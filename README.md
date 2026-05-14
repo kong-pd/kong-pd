@@ -41,4 +41,11 @@ Integrates YouTube Data API for course recommendations with offline fallback sup
 
 ---
 
+## Education
+
+Bachelor of Software Engineering · Taylor's University · 2024 – 2027
+
+---
+
+
 📫 Open to internship opportunities in software development.
