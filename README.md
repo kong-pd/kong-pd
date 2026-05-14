@@ -9,7 +9,7 @@ A Software Engineering student focused on building systems that are practical, s
 ### [ColdWatch](https://github.com/kong-pd/coldwatch)
 Real-time cold chain temperature monitoring system built with a microservices architecture.
 Containerized with Docker Compose, REST API backend, live dashboard, and AWS SNS email alerts.
-`Python` `Flask` `PHP` `MySQL` `Docker` `AWS SNS` `GitHub Actions`
+`Python` `Flask` `PHP` `MySQL` `Docker` `AWS SNS` `GitHub Actions` `CI/CD`
 
 ### [PromptCraft](https://github.com/kong-pd/PromptCraft)
 Local-first AI prompt builder designed for non-technical users.
