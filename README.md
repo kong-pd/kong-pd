@@ -35,7 +35,7 @@ Integrates YouTube Data API for course recommendations with offline fallback sup
 
 **DevOps:** Docker · Docker Compose · GitHub Actions · CI/CD
 
-**Cloud:** AWS (SNS · IAM · EC2 · RDS)
+**Cloud:** AWS (SNS · IAM · EC2)
 
 **Security:** Linux · Nmap · Network fundamentals · Penetration testing
 
