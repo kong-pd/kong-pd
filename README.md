@@ -1,5 +1,5 @@
-Hi, I'm Kong Peidong (kong-pd)👋
+Hi, I'm Kong Peidong (kong-pd) 👋
 
-Building full-stack tools around AI integration and data pipelines. Currently looking for backend / full-stack roles.
+Software Engineering student at Taylor's University (graduating 2027). I like building things end-to-end and shipping them — recent projects include a personal finance app with a payment system, an ESG greenwashing screening engine, and a cold chain temperature monitor.
 
-Pinned below: GreenCheck (AI-powered ESG claim scoring engine) and ColdWatch (cold chain monitoring with Flask + Docker + AWS SNS).
+Currently looking for backend / full-stack internships in KL, 2027.
