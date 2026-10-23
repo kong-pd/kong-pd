@@ -1,5 +1,7 @@
 Hi, I'm Kong Peidong (kong-pd) 👋
 
-I'm a Software Engineering student at Taylor's University (graduating 2027). I like building things end-to-end and shipping them. Recent projects include an LLM evaluation platform with RAG diagnostics and agreement analysis, a personal finance app with a payment system, an ESG greenwashing screening engine, and a cold chain temperature monitor.
+I like building things end to end, from a rough idea to something people can use. I learn best by shipping early, seeing what breaks, and fixing it.
 
-Currently looking for backend / full-stack internships in KL, 2027.
+Lately I’ve been most interested in AI systems. Outside class, I join hackathons and workshops, mostly for the chance to build alongside people who know things I don’t.
+
+I’m looking for a software engineering internship in Kuala Lumpur in April 2027, on a team where I can contribute to real products and learn how experienced engineers work.
