@@ -1,4 +1,4 @@
-Hi, I'm Kong Peidong (kong-pd) 👋
+Hi, I'm Kong Pei Dong (kong-pd) 👋
 
 I like building things end to end, from a rough idea to something people can use. I learn best by shipping early, seeing what breaks, and fixing it.
 
